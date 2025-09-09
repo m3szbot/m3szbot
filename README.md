@@ -6,7 +6,7 @@
 
 ## 📌 Featured Projects  
 
-### 🧁 [Pastry Shop Management System][https://github.com/m3szbot/Pastry-Shop-Project/tree/main]
+### 🧁 [Pastry Shop Management System](https://github.com/m3szbot/Pastry-Shop-Project/tree/main)
 
 <!--
 **m3szbot/m3szbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
