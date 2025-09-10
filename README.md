@@ -6,7 +6,7 @@
 
 ## 📌 Featured Projects  
 
-### 🧁 [Galaxy Trucker Multiplayer Game]([https://github.com/m3szbot/Pastry-Shop-Project/tree/main](https://github.com/m3szbot/Galaxy-Trucker-Project))
+### 👾 [Galaxy Trucker Multiplayer Game](https://github.com/m3szbot/Galaxy-Trucker-Project)
 
 ### 🧁 [Pastry Shop Management System](https://github.com/m3szbot/Pastry-Shop-Project/tree/main)
 
