@@ -8,7 +8,7 @@
 
 ### 👾 [Galaxy Trucker Multiplayer Game](https://github.com/m3szbot/Galaxy-Trucker-Project)
 
-### 🧁 [Pastry Shop Management System](https://github.com/m3szbot/Pastry-Shop-Project/tree/main)
+### 🧁 [Pastry Shop Management System](https://github.com/m3szbot/Pastry-Shop-Project)
 
 <!--
 **m3szbot/m3szbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
