@@ -1,7 +1,7 @@
 ## Hi, I'm Boti 👋
 
 🎓 Fresh Computer Engineering Graduate @ Politecnico di Milano  
-💻 Interested in Backend, Networking & Cybersecurity  
+💻 Interested in Backend, Fullstack, Networking & Cloud  
 🚀 Actively seeking Software Engineering roles
 
 ## 📌 Featured Projects  
